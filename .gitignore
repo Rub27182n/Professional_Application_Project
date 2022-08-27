@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # data
-data/
+data/BD_Comercio_Exterior_2020.csv
